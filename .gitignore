@@ -1,3 +1,6 @@
 env/
 SAC_implementation/__pycache__/
 SAC_implementation/videos/
+
+TD3_implementation/__pycache__/
+TD3_implementation/videos/
