@@ -7,3 +7,6 @@ TD3_implementation/videos/
 
 additional_PPO_implementation/__pycache__/
 additional_PPO_implementation/runs/
+
+DDPG_implementation/__pycache__/
+DDPG_implementation/videos/
