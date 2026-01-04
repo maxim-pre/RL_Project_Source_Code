@@ -4,3 +4,6 @@ SAC_implementation/videos/
 
 TD3_implementation/__pycache__/
 TD3_implementation/videos/
+
+additional_PPO_implementation/__pycache__/
+additional_PPO_implementation/runs/
