@@ -1,12 +1,15 @@
 env/
 SAC_implementation/__pycache__/
 SAC_implementation/videos/
+SAC_implementation/outputs/
 
 TD3_implementation/__pycache__/
 TD3_implementation/videos/
-
-additional_PPO_implementation/__pycache__/
-additional_PPO_implementation/runs/
+TD3_implementation/outputs/
 
 DDPG_implementation/__pycache__/
 DDPG_implementation/videos/
+DDPG_implementation/outputs/
+
+additional_PPO_implementation/__pycache__/
+additional_PPO_implementation/runs/
